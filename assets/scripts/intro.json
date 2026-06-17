@@ -1,0 +1,19 @@
+[
+  { "speaker": "", "text": "sry the story is kinda bad i wrote it in like 10 mins",      "portrait": "", "sfx": "blink" },
+  { "speaker": "", "text": "It was the middle of the night...",      "portrait": "", "sfx": "blink" },
+  { "speaker": "Betty Richman",   "text": "Hm, I thought I heard a noise...", "portrait": "betty", "sfx": "blink", "background": "bettyroom.png"},
+  {"speaker": "Betty Richman", "text": "Is anyone there?", "portrait": "betty", "sfx": "blink"},
+  {"speaker": "Betty Richman", "text": "Ahh! Let go of me!!!!!", "portrait": "betty", "sfx": "blink"},
+  { "speaker": "News Reporter", "text": "Last night, the young heiress Betty Richman was kidnapped.",      "portrait": "", "sfx": "blink", "background": "office.png"},
+  { "speaker": "News Reporter", "text": "Betty Richman is known as the daughter of Alistair Richman, the richest man in this city. Whoever kidnapped her must be after a hefty ransom...",  "portrait": "", "sfx": "blink" },
+  {"speaker": "Jancy P. Lawyer", "text": "Ughh...When are they going to put on the cartoons again? I dont want to hear about crime outside of when I have to for work...", "portrait": "jancy", "sfx": "blink"},
+  {"speaker": "", "text": "All of a sudden, the phone rings...", "portrait": "", "sfx": "blink"},
+  {"speaker": "[Unknown Voice]", "text": "Hello, is this the Jancy P. Lawyer Law Firm?", "portrait": "", "sfx": "blink"},
+  {"speaker": "Jancy", "text": "Um...yes? Who am I speaking to?", "portrait": "jancy", "sfx": "blink"},
+  {"speaker": "[Unknown Voice]", "text": "Please, you have to help me! I'm sure you've seen me and my family on the news - my name is Alistair Richman, and my daughter has been kidnapped! The kidnappers are demanding an outrageous ransom of 500,000 dollars!", "portrait": "", "sfx": "blink"},
+  {"speaker": "Alistair", "text": "You must help me to find the true culprit and bring them to justice!!!!!!!!", "portrait": ""},
+  {"speaker": "Jancy", "text": "I mean don't you need to call the police for that? Like i'm a lawyer its not my job to investigate crimes sir", "portrait": "jancy", "sfx": "blink"},
+  {"speaker": "Alistair", "text": "Well, of course! But the police currently suspect our maid to be the kidnapper, and it would be quite inconvenient for our family if she were to be arrested. So i would like you to be her defense lawyer in court, and assist in gathering as much information as possible to bring my daughter home!"},
+  {"speaker": "", "text": "Alistair has hung the phone up without waiting for your acceptance of the job. It seems you are hired!"},
+  {"speaker": "Jancy", "text": "Hm...I guess if he's rich then I'll get paid well. This seems like a pretty good deal...", "portrait": "jancy"}
+]

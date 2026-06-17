@@ -1,0 +1,7 @@
+[
+  { "speaker": "Jancy", "text": "Objection! This pendant was lying on the windowsill. Is it yours?", "portrait": "jancy", "sfx": "blink", "background": "" },
+  { "speaker": "Cassandra", "text": "Hm...I suppose. I must not have seen it since the light was so low.", "portrait": "cassandra", "sfx": "blink", "background": "" },
+  {"speaker": "Jancy", "text": "But you could see the rest of your jewelry box perfectly fine?", "portrait": "jancy", "sfx": "blnk"},
+  {"speaker": "Cassandra", "text": "Yes. Is that an issue?", "portrait": "cassandra", "sfx": "blink"},
+  {"speaker": "Jancy", "text": "[Classic excuses...]", "portrait": "jancy", "sfx": "blink", "background": ""}
+]

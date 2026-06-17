@@ -1,0 +1,8 @@
+[
+  { "speaker": "", "text": "After driving through all the richest parts of the city, you finally arrive at the university to investigate the crime scene, which is Betty Richman's room.", "portrait": "", "sfx": "blink" },
+  { "speaker": "Jancy",   "text": "Pretty nice for a dorm room...I guess her parents do have the money for it.", "portrait": "jancy", "sfx": "blink", "background": "bettyroom.png"},
+  { "speaker": "Jancy",   "text": "Well, I better look around for evidence. It should help me later...", "portrait": "jancy", "sfx": "blink", "background": "bettyroom.png"},
+  { "speaker": "", "text": "Look around the room and select areas where you might find evidence."}
+  
+
+]
