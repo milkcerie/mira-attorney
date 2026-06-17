@@ -1,5 +1,5 @@
 [
       { "speaker": "Judge", "text": "Court is now in session for the trial of the Richman family's maid Ella...uh, says here she's too poor for a last name...for the crime of kidnapping Betty Richman. The prosecution may now begin their opening statement.",  "portrait": "", "sfx": "blink" },
-      { "speaker": "Jane Prosecutor", "text": "No need, your honor. The defendant is already clearly guilty, so no need for an opening statement. We may now beginw ith the defendant's statement.",  "portrait": "jane", "sfx": "blink" },
+      { "speaker": "Jane Prosecutor", "text": "No need, your honor. The defendant is already clearly guilty, so no need for an opening statement. We may now begin with the defendant's statement.",  "portrait": "jane", "sfx": "blink" },
       {"speaker": "Judge", "text": "...I see."}
 ]
